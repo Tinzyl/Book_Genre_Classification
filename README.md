@@ -9,13 +9,11 @@
 MultinomialNB Accuracy | Support Vector Classifier Accuracy 
 -----------------------|------------------------------------
 66%                    | 56%                               
------------------------|------------------------------------
 
 ### TFIDFVectorizer
 
 MultinomialNB Accuracy | Support Vector Classifier Accuracy 
 -----------------------|------------------------------------
 78%                    | 78%                                
------------------------|------------------------------------
 
 The tfidfVectorizer performed the best and both the MultinomialNB and the Support Vector Classifier had the same accuracy of **78%**.
